@@ -5,3 +5,5 @@
 | Asset | Status |
 |--------|--------|
 | Laptop | Available |
+Server - Allocated
+Storage - Available
